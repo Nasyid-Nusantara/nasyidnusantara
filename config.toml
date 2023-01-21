@@ -19,8 +19,8 @@ enableRobotsTXT = true
 [params]
   text_color = "black"
   author = "Miminfo"
-  favicon = ""
-  site_logo = ""
+  favicon = "img/favicon_nasyid.png"
+  site_logo = "img/logo_nasyid.png"
   description = "The last theme you'll ever need. Maybe."
   background_color_class = "bg-black"
 
