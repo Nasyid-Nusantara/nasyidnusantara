@@ -1,4 +1,4 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Nasyid Nusantara'
-theme = 'ananke'
+theme = 'hugo-theme-massively'
