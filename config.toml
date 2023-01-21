@@ -21,7 +21,7 @@ enableRobotsTXT = true
   author = "Miminfo"
   favicon = "img/favicon_nasyid.png"
   site_logo = "img/logo_nasyid.png"
-  description = "The last theme you'll ever need. Maybe."
+  description = "The official nasheed website you'll ever need. Off course."
   background_color_class = "bg-black"
 
 [[params.ananke_socials]]
