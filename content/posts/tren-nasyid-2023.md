@@ -3,7 +3,7 @@ title: "Tren Nasyid 2023 : Menengok Komunitas Nasyid di Indonesia"
 date: 2023-01-30T11:13:47+07:00
 draft: false
 summary: "Banyak artis berbakat bemunculan dan memikat penonton dengan vokal mereka yang indah dan pesan-pesan yang menginspirasi. Postingan pertama ini akan eksplore tren terkini industri nasyid dan apa yang akan terjadi di masa depan."
-featured_image: '/img/aLookAtNasheed.png'
+# featured_image: '/img/aLookAtNasheed.png'
 ---
 
 Dalam beberapa tahun terakhir, komunitas nasyid Indonesia telah mengalami lonjakan popularitas, dengan banyak artis berbakat bermunculan dan memikat penonton dengan vokal mereka yang indah dan pesan-pesan yang menginspirasi. Postingan pertama ini akan mengeksplorasi tren terkini dalam industri nasyid dan apa yang akan terjadi di masa depan untuk genre musik ini.
