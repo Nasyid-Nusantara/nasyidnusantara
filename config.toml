@@ -9,6 +9,9 @@ SectionPagesMenu = "main"
 Pagination = 3
 googleAnalytics = ""
 enableRobotsTXT = true
+disqusShortname = 'miminfo'
+
+# disqusShortname = "Miminfo"
 
 
 [sitemap]
@@ -23,6 +26,7 @@ enableRobotsTXT = true
   site_logo = "images/logo_nasyid.png"
   description = "The official nasheed website you'll ever need. Off course."
   background_color_class = "bg-black"
+  # commentoEnable = true
 
 [[params.ananke_socials]]
 name = "instagram"
