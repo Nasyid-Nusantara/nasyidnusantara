@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://nasyidnusantara.com/'
 languageCode = 'id'
 title = 'Nasyid Nusantara'
 theme = 'ananke'
@@ -19,8 +19,8 @@ enableRobotsTXT = true
 [params]
   text_color = "black"
   author = "Miminfo"
-  favicon = "img/favicon_nasyid.png"
-  site_logo = "img/logo_nasyid.png"
+  favicon = "images/favicon_nasyid.png"
+  site_logo = "images/logo_nasyid.png"
   description = "The official nasheed website you'll ever need. Off course."
   background_color_class = "bg-black"
 

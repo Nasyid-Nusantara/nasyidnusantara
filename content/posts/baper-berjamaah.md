@@ -2,7 +2,7 @@
 title: "Baper Berjamaah"
 date: 2023-02-08T09:32:03+07:00
 draft: false
-featured_image: "/img/kamus1.JPG/"
+featured_image: "/images/kamus1.JPG/"
 summary: '"Mas Fathur mengajak penyanyi nasyid (munsyid) se-Semarang untuk ‘Baper’ (bawa perubahan) berjamaah selagi masih muda.
 
 Dengan mengangkat tema "Menjadi munsyid baper"'
