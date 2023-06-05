@@ -5,7 +5,6 @@ draft: false
 image: "/images/rakernas pnn 2023.jpg/"
 alt: ""
 caption: ""
-weight: 2
 summary: "Rakernas 2023 diadakan di Bandung Barat"
 ---
 
