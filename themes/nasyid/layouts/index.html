@@ -1,17 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  {{ partial "head.html" . }}
-</head>
-<body>
-  
-  {{ partial "nav.html" . }}
-  {{ partial "header.html" . }}
-  
-  {{ partial "post-grid.html" . }}
-  
-  {{ partial "footer.html" . }}
-  {{ partial "js-init.html" . }}
+{{ define "main" }}
 
-</body>
-</html>
+<h1>{{ .Title }}</h1>
+
+{{ end }}
