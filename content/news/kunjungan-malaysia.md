@@ -6,6 +6,7 @@ image: "/images/kunjungan-malaysia.jpg"
 alt: ""
 caption: "kunjungan Nasyid Indonesia ke Malaysia"
 summary: "Nasyid Nusantara dan Munsyid Malaysia Sepakat Pertukaran Nasyid Antar Bangsa"
+weight : 1
 ---
 
 Nusantara Nasheed dan Nasyid Indonesia Bergabung Buat Guncang Asia Tenggara!

@@ -1,9 +1,9 @@
-[submodule "themes/ananke"]
-	path = themes/ananke
-	url = https://github.com/theNewDynamic/gohugo-theme-ananke
-[submodule "themes/hugo-theme-massively"]
-	path = themes/hugo-theme-massively
-	url = git@github.com:curtiscde/hugo-theme-massively.git
+#[submodule "themes/ananke"]
+	#path = themes/ananke
+	#url = https://github.com/theNewDynamic/gohugo-theme-ananke
+#[submodule "themes/hugo-theme-massively"]
+	#path = themes/hugo-theme-massively
+	#url = git@github.com:curtiscde/hugo-theme-massively.git
 [submodule "themes/hugo-creative-portfolio-theme"]
 	path = themes/hugo-creative-portfolio-theme
 	url = https://github.com/kishaningithub/hugo-creative-portfolio-theme.git
