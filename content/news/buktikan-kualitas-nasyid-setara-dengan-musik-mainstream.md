@@ -2,7 +2,7 @@
 title: "Buktikan Kualitas Nasyid Setara Dengan Musik Mainstream"
 date: 2023-06-13T18:57:47+07:00
 draft: false
-image: "/images/liveSession004.JPG"
+image: "/images/coverArtikelLiveSession.png"
 alt: ""
 caption: "Ya, buktikan bahwa nasyid bisa setara dengan musik mainstream."
 showonlyimage: true
