@@ -6,6 +6,7 @@ image: ""
 alt: ""
 caption: ""
 summary: "Nasyid Goes to School meriahkan Milad (Hari Ulang Tahun) MTSN 6 Sragen pada Sabtu, 26 November 2022 di halaman sekolah setempat."
+weight : 1
 ---
 
 **Sragen -** Nasyid Goes to School meriahkan Milad (Hari Ulang Tahun) MTSN 6 Sragen pada Sabtu, 26 November 2022 di halaman sekolah setempat. Dihadiri ratusan siswa dan pengajar, Nasyid Goes to School sukses menyemarakkan acara dengan deretan lagu bernuansa islami.

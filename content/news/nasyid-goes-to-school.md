@@ -6,6 +6,8 @@ image: "/images/nasyid-goes-to-school.jpg"
 alt: ""
 caption: ""
 summary: "Nasyid goes to school sebagai program kerja Nasyid Nusantara bekerjasama dengan Jaringan Sekolah Islam terpadu di Indonesia"
+weight : 1
+showonlyimage: true
 ---
 
 **Klaten, Jawa Tengah** - Azzam Haroki kembali perkenalkan nasyid dengan keren lewat tur spesial “Nasyid Goes to School”. Pada tur kali ini, Azzam Haroki  berkesempatan memeriahkan acara Milad ke-13 SMPIT Hidayah Klaten atau yang biasa dikenal dengan sebutan “Sehika” pada 14 Juni 2023. Acara digelar di halaman sekolah SMPIT Hidayah dengan dihadiri seluruh siswa dan tenaga pendidik.
