@@ -5,6 +5,7 @@ draft: false
 image: ""
 alt: ""
 caption: ""
+weight: 8
 summary: "Setelah sukses memeriahkan HUT MTSN 6 Sragen, rombongan NGTS melanjutkan rangkaian tur dengan menyapa SMAIT Al Huda Wonogiri pada 15 Desember 2022."
 ---
 

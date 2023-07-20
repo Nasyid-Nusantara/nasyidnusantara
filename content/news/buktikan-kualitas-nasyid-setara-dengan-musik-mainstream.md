@@ -6,7 +6,7 @@ image: "/images/coverArtikelLiveSession.png"
 alt: ""
 caption: "Ya, buktikan bahwa nasyid bisa setara dengan musik mainstream."
 showonlyimage: true
-weight: 1
+weight: 3
 ---
 
 **Semarang** - membaca tajuknya saja rasanya mimin bergetar. Begitulah semangat yang ditularkan para senior yang ada di jajaran pengurus inti Perkumpulan Nasyid Nusantara Pusat. Setelah sukses menyelenggarakan Live session tiga kali berturut-turut, bersama beriringan dengan Java MICE Pro, Nasyid Nusantara kembali menghadirkan pertunjukkan Live Session. yang keempat. Sebagaimana video youtube di bawah :
