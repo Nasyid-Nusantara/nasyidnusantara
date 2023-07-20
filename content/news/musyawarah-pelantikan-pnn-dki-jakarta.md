@@ -4,7 +4,7 @@ date: 2023-07-21T01:41:01+07:00
 draft: false
 image: "/images/pelantikan_pnn_jakarta_002.png"
 alt: ""
-caption: ""
+summary: "Musyawarah Luar Biasa dan Pelantikan Pengurus Nasyid Nusantara Wilayah DKI Jakarta baru-baru ini digelar dengan sukses di Green Cafe Jakarta pada tanggal 9 Juli 2023."
 ---
 
 **Jakarta, 11 Juli 2023** - Musyawarah Luar Biasa dan Pelantikan Pengurus Nasyid Nusantara Wilayah DKI Jakarta baru-baru ini digelar dengan sukses di Green Cafe Jakarta pada tanggal 9 Juli 2023. Acara tersebut dihadiri oleh beberapa tokoh nasyid dan anggota grup vokal terkemuka Indonesia, yang berkumpul untuk merayakan dan memperkuat peran nasyid dalam budaya musik Indonesia.
